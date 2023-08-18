@@ -2,34 +2,19 @@
 
 
 
-### APRESENTAÇÃO
+### APRESENTAÇÃO ANGULAR
 
-- Curso da plataforma Udemy com duração de 97 horas, ministrado pelo professor Leonardo
-Moura Leitao que faz parte da Cod3r Cursos Online.</br>
-- Sua proposta é ensinar as principais bases para uma boa construçao de aplicacoes
-web, incluindo o ensino de três frameworks que são o Angular, React e VUE.</br>
-- Durante o curso são desenvolvidos projetos e desafios para consolidar o conhecimento
-nas tecnologias de frontend e backend.</br></br>
+- Essa etapa do curso aborda a tecnologia Angular por meio de um projeto que cadastra produtos, esse projeto disponibiliza
+  um CRUD de produtos com uma interface interativa e com opções de edição facilitada tendo um back simples com json server por
+  ter mais foco no front.
+- Por meio desse projeto vão ser abordados conceitos chave para trabalhar com angular. 
 
-### CONTEÚDOS ABORDADOS
+![copia](https://github.com/AdisonSoares/desenvolvimento-web_angular/assets/62489704/6339ab80-5770-4a20-9bde-088a58ff3152)
 
- - Lógica de programação</br>
- - JavaScript</br>
- - Node.js</br>
- - ESNext</br>
- - HTML5</br>
- - CSS3</br>
- - Ajax</br>
- - Gulp</br>
- - Webpack</br>
- - jQuery</br>
- - Bootstrap</br>
- - React</br>
- - Next</br>
- - VueJS</br>
- - Angular 9</br>
- - Banco Relacional e Não Relacional</br>
- - Express</br>
+
+![copia2](https://github.com/AdisonSoares/desenvolvimento-web_angular/assets/62489704/83197fb8-c92b-494b-9f75-48e079d089ec)
+
+
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
