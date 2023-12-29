@@ -16,6 +16,7 @@ import { HomeComponent } from './components/views/home/home.component';
 import { ProductCrudComponent } from './components/views/product-crud/product-crud.component';
 import { RedDirective } from './directives/red.directive';
 import { MatButtonModule } from '@angular/material/button';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
 
 @NgModule({
   declarations: [
@@ -35,7 +36,8 @@ import { MatButtonModule } from '@angular/material/button';
     MatSidenavModule,
     MatListModule,
     MatCardModule,
-    MatButtonModule
+    MatButtonModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
