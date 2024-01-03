@@ -1,19 +1,19 @@
 {
-    "products":[
-        {
-            "id": 1,
-            "name": "Caneta Bic Azul",
-            "price": 5.89 
-        },
-        {
-            "id": 2,
-            "name": "Notebook dell",
-            "price": 12000.00 
-        },
-        {
-            "id": 3,
-            "name": "Sansung S20+",
-            "price": 5000.00 
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook dell",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000
+    }
+  ]
 }
